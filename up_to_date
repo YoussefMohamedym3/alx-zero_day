@@ -1,0 +1,14 @@
+hp@DESKTOP-AFCIM38 MINGW64 ~/alx-zero_day (master)
+$ touch up_to_date
+
+hp@DESKTOP-AFCIM38 MINGW64 ~/alx-zero_day (master)
+$ ls
+0x03-git/  README.md  up_to_date
+
+hp@DESKTOP-AFCIM38 MINGW64 ~/alx-zero_day (master)
+$ cd up_to_date
+bash: cd: up_to_date: Not a directory
+
+hp@DESKTOP-AFCIM38 MINGW64 ~/alx-zero_day (master)
+$ vim up_to_date
+
